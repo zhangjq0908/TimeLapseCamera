@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity implements ForegroundService
 	}
 
 	public void actionAbout(MenuItem item) {
-		startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/woheller69/timelapsecamera")));
+		startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.douyin.com/user/MS4wLjABAAAAEz512vRR_yrW9aWHs79bQOnFW_XV9NE6D-NJfTcSkwPscIBl0IibUxcoFJUXyjLq")));
 	}
 
 	@Override
