@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements ForegroundService
 		Context context = getApplicationContext();
 		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(context);
 		SettingsCommon.setDefaultValues(context, prefs);
-		if (GithubStar.shouldShowStarDialog(this)) GithubStar.starDialog(this,"https://www.douyin.com/user/MS4wLjABAAAAEz512vRR_yrW9aWHs79bQOnFW_XV9NE6D-NJfTcSkwPscIBl0IibUxcoFJUXyjLq");
+		if (GithubStar.shouldShowStarDialog(this)) GithubStar.starDialog(this,"https://github.com/zhangjq0908");
 	}
 
 	@Override
