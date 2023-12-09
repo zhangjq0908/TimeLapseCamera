@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">阿宅相机</string>
+   <string name="app_name">无忌相机</string>
     <string name="action_start">开始</string>
     <string name="action_stop">停止</string>
     <string name="action_unmute_all_streams">重置音频音量</string>
@@ -63,7 +62,7 @@
     <string name="dialog_OK_button">好的</string>
     <string name="dialog_NO_button">不</string>
     <string name="dialog_Later_button">以后再说</string>
-    <string name="dialog_StarOnGitHub">你喜欢这个应用程序吗？请给阿宅点个赞或者通过PayPal给开发者买杯奶茶。</string>
+    <string name="dialog_StarOnGitHub">你喜欢这个应用程序吗？请给点个赞或者通过PayPal给开发者买杯奶茶。</string>
     <string name="pref_camera_hardware_settings">硬件设置</string>
     <string name="pref_camera_init_delay_summ">摄像头启动延迟。如果太小，可能会发生崩溃！</string>
     <string name="pref_camera_trigger_delay_summ">拍摄前的延迟时间。如果太低，图像可能会很暗！</string>
