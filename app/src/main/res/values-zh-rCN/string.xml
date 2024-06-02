@@ -76,7 +76,7 @@
     <string name="pref_video_enc_hint">以比特/秒为单位输入值</string>
     <string name="pref_video_enc">视频编码比特率</string>
        <string name="pref_restapi_settings_category">REST API</string>
-    <string name="pref_restapi_enabled">已启用REST API</string>
+    <string name="pref_restapi_enabled">启用REST API</string>
     <string name="pref_restapi_enabled_summ">为远程控制启用HTTP REST API服务器</string>
     <string name="pref_restapi_port_title">HTTP服务器端口</string>
     <string name="pref_restapi_pw_title">密码</string>
